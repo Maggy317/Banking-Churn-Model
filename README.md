@@ -30,8 +30,8 @@ To identify key factors contributing to customer churn and recommend data-driven
 -	What customer segments are high value and high risk?
 
 ## Dataset Descriptions
--	Bank Churn Raw
--	Cleaned transact;ion
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Banking_Churn_Raw.xlsx>Bank Churn Raw Dataset</a>
+-	<a href=Bank Churn Cleaned Dataset
 -	Source : (Kaggle Dataset)
 
 ## Tools
