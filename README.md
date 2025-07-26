@@ -31,7 +31,7 @@ To identify key factors contributing to customer churn and recommend data-driven
 
 ## Dataset Descriptions
 -	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Banking_Churn_Raw.xlsx>Bank Churn Raw Dataset</a>
--	<a href=Bank Churn Cleaned Dataset
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Banking_Churn_Cleaned.csv>Bank Churn Cleaned Dataset</a>
 -	Source : (Kaggle Dataset)
 
 ## Tools
