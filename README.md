@@ -30,7 +30,7 @@ To identify key factors contributing to customer churn and recommend data-driven
 -	What customer segments are high value and high risk?
 
 ## Dataset Descriptions
--	Bank churn modelling(raw dataset)
+-	Bank Churn Raw
 -	Cleaned transact;ion
 -	Source : (Kaggle Dataset)
 
@@ -56,7 +56,7 @@ Missing Values:
 -	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Churn_Behavior.png>Churn Behavior & Customer Segmentation</a>
 -	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Customer_Value.png>Churn Risk Level + Customer Value</a>
 - <a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Churn_Drivers.png>Retention KPIs & Churn Drivers</a>
--	<a href=Recommendations
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Recommendations.png>Recommendations</a>
 
 ## Key Insights
 -	Majority of churned customers had only 1 product.
