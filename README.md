@@ -54,8 +54,8 @@ Missing Values:
 ## Dashboard Themes
 -	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Customer_Overview.png>Customer Demographic & Churn Overview</a>
 -	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Churn_Behavior.png>Churn Behavior & Customer Segmentation</a>
--	<a href=Churn Risk Level + Customer Value
--	Salary, Engagements, Tenure Analysis
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Customer_Value.png>Churn Risk Level + Customer Value</a>
+- <a href=Retention KPIs & Churn Drivers
 -	Insights, Recommendation & Action Plan
 
 ## Key Insights
