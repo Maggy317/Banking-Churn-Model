@@ -52,9 +52,9 @@ Missing Values:
 -	Ensured columns types were appropriate (e.g., integers for Credit Score)
 
 ## Dashboard Themes
--	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Customer_Overview.png>Customer Demographic & Churn Overview<a/>
--	<a href=Churn Behavior & Customer Segmentation
--	Customer Value & Risk Segmentation
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Customer_Overview.png>Customer Demographic & Churn Overview</a>
+-	<a href=https://github.com/Maggy317/Banking-Churn-Model/blob/main/Churn_dashboard.png/Churn_Behavior.png>Churn Behavior & Customer Segmentation</a>
+-	<a href=Churn Risk Level + Customer Value
 -	Salary, Engagements, Tenure Analysis
 -	Insights, Recommendation & Action Plan
 
